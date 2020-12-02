@@ -1,0 +1,11 @@
+NC_045512.2	266	21555	ID=gene-GU280_gp01;Dbxref=GeneID:43740578;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512.2	21563	25384	ID=gene-GU280_gp02;Dbxref=GeneID:43740568;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;gene_synonym=spike glycoprotein;locus_tag=GU280_gp02
+NC_045512.2	25393	26220	ID=gene-GU280_gp03;Dbxref=GeneID:43740569;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding;locus_tag=GU280_gp03
+NC_045512.2	26245	26472	ID=gene-GU280_gp04;Dbxref=GeneID:43740570;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=GU280_gp04
+NC_045512.2	26523	27191	ID=gene-GU280_gp05;Dbxref=GeneID:43740571;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=GU280_gp05
+NC_045512.2	27202	27387	ID=gene-GU280_gp06;Dbxref=GeneID:43740572;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding;locus_tag=GU280_gp06
+NC_045512.2	27394	27759	ID=gene-GU280_gp07;Dbxref=GeneID:43740573;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding;locus_tag=GU280_gp07
+NC_045512.2	27756	27887	ID=gene-GU280_gp08;Dbxref=GeneID:43740574;Name=ORF7b;gbkey=Gene;gene=ORF7b;gene_biotype=protein_coding;locus_tag=GU280_gp08
+NC_045512.2	27894	28259	ID=gene-GU280_gp09;Dbxref=GeneID:43740577;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding;locus_tag=GU280_gp09
+NC_045512.2	28274	29533	ID=gene-GU280_gp10;Dbxref=GeneID:43740575;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=GU280_gp10
+NC_045512.2	29558	29674	ID=gene-GU280_gp11;Dbxref=GeneID:43740576;Name=ORF10;gbkey=Gene;gene=ORF10;gene_biotype=protein_coding;locus_tag=GU280_gp11
