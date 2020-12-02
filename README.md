@@ -7,14 +7,14 @@ All materials in this repository is distributed under Creative Commons Attributi
 
 ## Structure 
 
-I: Introduction to sequence algorithms
+I: Introduction to sequence algorithms \[[slides](slides/seq_algos_1_intro.pdf) | [exercises](exercises/notebook_session1.ipynb)\]
 
   * Algorithms basics
   * Time complexity
   * Data structures
   * Hashing
 
-II: Sequence alignments
+II: Sequence alignments \[[slides](slides/seq_algos_2_seq_align.pdf) | [exercises](exercises/notebook_session2.ipynb)\]
 
   * Exact matching
     - naive
@@ -23,14 +23,14 @@ II: Sequence alignments
   * Inexact matching
     - Dynamic programming
  
-III: Computational models in genomics
+III: Computational models in genomics \[[slides](slides/seq_algos_3_ml.pdf) | [exercises](exercises/notebook_session3.ipynb)\]
 
   * Markov models and HMM
   * Classification problem
     - Tree-based models
     - Intro to machine learning
  
-IV: Network analysis
+IV: Network analysis \[[slides](slides/seq_algos_4_markov_graphs.pdf) | [exercises](exercises/notebook_session4.ipynb)\]
 
   * Graph representations
   * Graph traversal
