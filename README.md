@@ -3,9 +3,12 @@
 Slides and exercises from sequence algorithms lectures I gave for the data analysis in genomics (DAG) workshop.
 
 Parts of these lectures were inspired by Ben Langmead's computational genomics classes: https://github.com/BenLangmead/comp-genomics-class
+
 All materials in this repository is distributed under Creative Commons Attribution 4.0: You may redistribute and modify  this material however you like, just give credits :)
 
 ## Structure 
+
+The course is split into 4 thematic lectures. Each lecture has an associated jupyter notebook containing exercises in python. The anwers are missing from the notebooks, but each exercise session has a separate notebook in the same folder with answers added.
 
 I: Introduction to sequence algorithms \[[slides](slides/seq_algos_1_intro.pdf) | [exercises](exercises/notebook_session1.ipynb)\]
 
